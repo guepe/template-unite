@@ -63,9 +63,11 @@ Plusieurs options de téléchargement sont possibles :
 
 ### Installer le template pour Wordpress, Drupal, …
 
-Nous n’avons pas encore prévu de thème clé sur porte pour les CMS grand public.
+**WordPress** : le dossier [`wordpress/`](wordpress/) contient un thème de bloc clé sur porte, *Les Scouts – Unité*. 
+Son [README](wordpress/README.md) explique comment l’installer, créer les pages et gérer l’agenda des réunions ; 
+le fonctionnement technique de l’agenda est décrit dans [`agenda-module.md`](wordpress/agenda-module.md).
 
-Si tu prépares un site avec une plateforme comme Wordpress, Drupal ou un autre CMS, n’hésite pas à partager ta méthode 
+Si tu prépares un site avec une autre plateforme comme Drupal ou un autre CMS, n’hésite pas à partager ta méthode 
 d’intégration pour aider les autres unités (voir la section « Contribuer au projet » ci-dessous).
 
 ### Installer le template pour un site statique
