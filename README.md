@@ -1,5 +1,7 @@
 # Thème pour les sites d’unité Les Scouts
 
+> **Ce fork est archivé.** Le thème WordPress qui y était développé (dossier `wordpress/`) vit désormais dans son propre dépôt : **[guepe/les-scouts-unite](https://github.com/guepe/les-scouts-unite)**. Le template d’origine est sur [lesscouts/template-unite](https://github.com/lesscouts/template-unite).
+
 [Les Scouts asbl](https://lesscouts.be/) propose ce thème à l’usage de ses membres pour créer le site de leur unité scoute.
 
 Dans ce dépôt, tu trouveras :
